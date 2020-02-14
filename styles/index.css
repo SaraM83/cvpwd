@@ -4,3 +4,17 @@ header {
     text-align: center; 
     height: 200px; 
 }
+#education {
+    background-color: cornsilk;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+
+}
+#experience {
+    background-color: cornsilk;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+
+}
