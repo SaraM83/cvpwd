@@ -2,7 +2,7 @@ header {
     background-color: bisque;
     font-style: italic;
     text-align: center; 
-    height: 200px; 
+    height: 400px; 
 }
 #education {
     background-color: cornsilk;
@@ -17,4 +17,15 @@ header {
     height: 200px;
     width: 100%;
 
+}
+#profile {
+    background-color: cornsilk;
+    text-align: center;
+    height: 200px;
+    widht: 100%
+}
+#contact {
+    background-color: bisque;
+    height: 275px;
+    width: 100%; 
 }
