@@ -4,27 +4,14 @@ header {
     text-align: center; 
     height: 400px; 
 }
-#education {
+.blocks {
     background-color: cornsilk;
     text-align: center;
     height: 200px;
-    width: 100%;
-
-}
-#experience {
-    background-color: cornsilk;
-    text-align: center;
-    height: 200px;
-    width: 100%;
-
-}
-#profile {
-    background-color: cornsilk;
-    text-align: center;
-    height: 200px;
-    widht: 100%
-}
-#contact {
+    width: 100%; 
+} 
+ 
+.contact {
     background-color: bisque;
     height: 275px;
     width: 100%; 
