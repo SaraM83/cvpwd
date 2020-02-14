@@ -1,4 +1,6 @@
 header {
     background-color: bisque;
     font-style: italic;
+    text-align: center; 
+    height: 200px; 
 }
