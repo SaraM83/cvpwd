@@ -16,3 +16,6 @@ header {
     height: 275px;
     width: 100%; 
 }
+body {
+    background-color: pink;
+}
