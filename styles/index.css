@@ -2,18 +2,19 @@
     background-color: white;
     text-align: right; 
     height: 200px; 
-    border-bottom: black solid; 
-    padding: 15px;
+    border-bottom: lightblue solid 1px; 
+    padding: 25px 15px 3px 15px;
     font-family: Arial;
+    font-size: smaller;
 }
 .blocks {
     background-color: white;
     text-align: left;
     width: 100%; 
     font-family: Arial;
-    border-bottom: black solid;
-} 
- 
+    border-bottom: lightblue solid 1px;
+    font-size: smaller;
+}  
 .contact {
     background-color: white;
     height: 275px;
@@ -37,7 +38,7 @@ a:hover {
 a:active {
     color: red;
   }
-  .page {
+.page {
       width: 1300px;
       margin: 0 auto;
   }
