@@ -1,21 +1,40 @@
-header {
-    background-color: bisque;
-    font-style: italic;
-    text-align: center; 
-    height: 400px; 
+.top {
+    background-color: white;
+    text-align: right; 
+    height: 200px; 
+    border-bottom: black solid; 
+    padding: 15px;
+    font-family: verdana;
 }
 .blocks {
-    background-color: cornsilk;
-    text-align: center;
+    background-color: white;
+    text-align: left;
     height: 200px;
     width: 100%; 
+    font-family: verdana;
+    border-bottom: black solid;
 } 
  
 .contact {
-    background-color: bisque;
+    background-color: white;
     height: 275px;
     width: 100%; 
+    font-family: verdana;
 }
 body {
-    background-color: pink;
+    background-color: white; 
 }
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+a:visited {
+    color: blue;
+  }
+a:hover {
+    color: grey;
+    text-decoration: underline;
+  }
+a:active {
+    color: red;
+  }
