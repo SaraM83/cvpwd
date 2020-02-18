@@ -4,14 +4,13 @@
     height: 200px; 
     border-bottom: black solid; 
     padding: 15px;
-    font-family: verdana;
+    font-family: Arial;
 }
 .blocks {
     background-color: white;
     text-align: left;
-    height: 200px;
     width: 100%; 
-    font-family: verdana;
+    font-family: Arial;
     border-bottom: black solid;
 } 
  
@@ -19,7 +18,7 @@
     background-color: white;
     height: 275px;
     width: 100%; 
-    font-family: verdana;
+    font-family: Arial;
 }
 body {
     background-color: white; 
@@ -37,4 +36,8 @@ a:hover {
   }
 a:active {
     color: red;
+  }
+  .page {
+      width: 1300px;
+      margin: 0 auto;
   }
