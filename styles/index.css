@@ -20,6 +20,7 @@
     height: 275px;
     width: 100%; 
     font-family: Arial;
+    padding-top: 30px;
 }
 body {
     background-color: white; 
